@@ -22,7 +22,7 @@ Reqy is your new BFF for sending GET and POST requests from the command line. Wh
 
 #### Linux
 
-`curl -sL https://github.com/xerctia/reqy/raw/main/Linux/reqy-install.sh
+`curl -sL https://github.com/xerctia/reqy/blob/main/Linux/install-reqy.sh
  | bash
 `
 
