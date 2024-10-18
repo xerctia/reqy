@@ -45,6 +45,8 @@ Or:
 `reqy -U <url> -M <method> -F key1=value1 -F key2=value2
 `
 
+<b>Note:</b> When sending the URL, if it is the root or home path, i.e. if the URL is like http://example.com, entering this will not work as the command doesn't get any path. So, http:example.com/ should be passed instead of http://example.com (i.e. with an extra /).
+
 #### Example
 
 `reqy -U http://example.com -M GET`
