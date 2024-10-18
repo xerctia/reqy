@@ -38,6 +38,8 @@ Or:
 2. Run the `install-reqy.bat` file as administrator.
 3. Done. Now, go forth and have fun, my child.
 
+<b>Note:</b> You need to have Java and JDK installed in order to run this command.
+
 <hr />
 
 ### Usage
