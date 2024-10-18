@@ -4,7 +4,7 @@ REM Create directory for reqy
 mkdir "C:\Program Files\reqy"
 
 REM Download the JAR file
-powershell -Command "Invoke-WebRequest -Uri https://github.com/yourusername/reqy/releases/download/v1.0/reqy.jar -OutFile 'C:\Program Files\reqy\reqy.jar'"
+powershell -Command "Invoke-WebRequest -Uri https://github.com/xerctia/reqy/releases/download/v1.0/reqy.jar -OutFile 'C:\Program Files\reqy\reqy.jar'"
 
 REM Create the batch file wrapper
 echo @echo off > "C:\Program Files\reqy\reqy.bat"
