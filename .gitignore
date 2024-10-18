@@ -1,0 +1,20 @@
+# IDE files
+/.settings/
+/.project
+/.classpath
+
+# Compiled class files
+*.class
+
+# JAR files
+*.jar
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other files to ignore
+*.iml
